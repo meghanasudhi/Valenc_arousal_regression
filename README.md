@@ -1,2 +1,2 @@
-# valence_arousal_regression
-Task number one of the Audio Signal Processing Lab at UPF SMC
+# acousticbrainz_duplicate_analysis
+Task number four of the Audio Signal Processing Lab at UPF SMC
